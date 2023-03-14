@@ -549,14 +549,14 @@
   - type: SolutionContainerManager
     solutions:
       food:
-        maxVol: 14
+        maxVol: 20
         reagents:
         - ReagentId: Nutriment
           Quantity: 10
         - ReagentId: Vitamin
-          Quantity: 4
+          Quantity: 5
         - ReagentId: Allicin
-          Quantity: 4
+          Quantity: 5
   - type: Sprite
     sprite: Objects/Specific/Hydroponics/onion.rsi
   - type: Produce
@@ -577,10 +577,10 @@
   - type: SolutionContainerManager
     solutions:
       food:
-        maxVol: 14
+        maxVol: 16
         reagents:
         - ReagentId: Nutriment
-          Quantity: 10
+          Quantity: 8
         - ReagentId: Vitamin
           Quantity: 4
         - ReagentId: Allicin
@@ -661,7 +661,7 @@
   - type: SolutionContainerManager
     solutions:
       food:
-        maxVol: 3
+        maxVol: 4
         reagents:
         - ReagentId: Nutriment
           Quantity: 2
@@ -684,7 +684,7 @@
   - type: SolutionContainerManager
     solutions:
       food:
-        maxVol: 3
+        maxVol: 4
         reagents:
         - ReagentId: Nutriment
           Quantity: 2

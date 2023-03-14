@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "rosysyntax#6514",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "rings-1"
+    },
+    {
+      "name": "rings-2"
+    },
+    {
+      "name": "rings-3"
+    },
+    {
+      "name": "rings-4"
+    },
+    {
+      "name": "rings-5"
+    },
+    {
+      "name": "basket"
+    },
+    {
+      "name": "one-ring"
+    }
+  ]
+}

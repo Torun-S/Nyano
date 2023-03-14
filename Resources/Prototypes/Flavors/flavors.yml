@@ -289,6 +289,11 @@
   description: flavor-complex-onion
 
 - type: flavor
+  id: ring
+  flavorType: Complex
+  description: flavor-complex-ring
+
+- type: flavor
   id: eggplant
   flavorType: Complex
   description: flavor-complex-eggplant

@@ -205,6 +205,35 @@
         - ReagentId: Vitamin
           Quantity: 1
 
+# Onion Rings
+
+- type: Tag
+  id: OnyoRing
+
+- type: entity
+  name: onion ring
+  parent: FoodBakedBase
+  id: FoodBakedOnionRing
+  description: The One Ring.
+  components:
+  - type: FlavorProfile
+    flavors:
+      - onion
+      - ring
+  - type: Tag
+    tags:
+      - OnyoRing
+  - type: Sprite
+    sprite: Objects/Consumable/Food/Baked/onionrings.rsi
+    state: one-ring
+  - type: SolutionContainerManager
+    solutions:
+      food:
+        maxVol: 6
+        reagents:
+        - ReagentId: Nutriment
+          Quantity: 5
+
 # Waffles/Pancakes
 
 # Once StackVisualizer is updated you should be able to mix/match stacks of pancakes.

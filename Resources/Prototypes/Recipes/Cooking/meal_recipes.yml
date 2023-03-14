@@ -552,6 +552,17 @@
     Flour: 18
 
 - type: microwaveMealRecipe
+  id: RecipeOnionRingsBox
+  name: onion rings box recipe
+  result: FoodBoxOnionRings
+  time: 10
+  reagents:
+    Beer: 5
+    Flour: 10
+  solids:
+    FoodOnionSlice: 5
+
+- type: microwaveMealRecipe
   id: RecipeCubanCarp
   name: cuban carp recipe
   result: FoodMealCubancarp
@@ -1192,4 +1203,4 @@
   time: 15
   solids:
     FoodMeatLizard: 1
-    FoodKebabSkewer: 1   
+    FoodKebabSkewer: 1
