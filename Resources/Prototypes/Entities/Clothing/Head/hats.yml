@@ -572,3 +572,14 @@
     sprite: Clothing/Head/Hats/beret_cmo.rsi
   - type: Clothing
     sprite: Clothing/Head/Hats/beret_cmo.rsi
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatRodeo
+  name: tiny rodeo hat
+  description: What is this, a cowboy hat for ants? Smells like onion rings.
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/Hats/rodeohat.rsi
+  - type: Clothing
+    sprite: Clothing/Head/Hats/rodeohat.rsi

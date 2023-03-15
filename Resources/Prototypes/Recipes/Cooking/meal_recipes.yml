@@ -28,6 +28,17 @@
     FoodChili: 3
 
 - type: microwaveMealRecipe
+  id: RecipeRodeoBurger
+  name: rodeo burger recipe
+  result: FoodBurgerRodeo
+  time: 15
+  solids:
+    FoodBreadBun: 1
+    FoodMeatPatty: 1
+    FoodBakedOnionRing: 3
+    FoodCheeseSlice: 1
+
+- type: microwaveMealRecipe
   id: RecipeBigBiteBurger
   name: big bite burger recipe
   result: FoodBurgerBig

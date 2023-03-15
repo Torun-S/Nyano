@@ -37,6 +37,18 @@
 <GuideEntityEmbed Entity="FoodBurgerFive" Caption=""/>
 </Box>
 <Box Orientation="Vertical">
+	[color=#a4885c]Rodeo Burger[/color]
+</Box>
+<Box>
+<Box Orientation="Vertical">
+- Meat Patty
+- 3x onion ring
+- Cheese wedge
+</Box>
+<GuideEntityEmbed Entity="KitchenMicrowave" Caption="15 sec"/>
+<GuideEntityEmbed Entity="FoodBurgerRodeo" Caption=""/>
+</Box>
+<Box Orientation="Vertical">
 	[color=#a4885c]Big Bite Burger[/color]
 </Box>
 <Box>

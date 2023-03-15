@@ -178,6 +178,31 @@
 # Tastes like  .
 
 - type: entity
+  name: rodeo burger
+  parent: FoodBurgerBase
+  id: FoodBurgerRodeo
+  description: You're in for a ride, pardner. Yeehaw!
+  components:
+  - type: Food
+    trash: ClothingHeadHatRodeo
+  - type: FlavorProfile
+    flavors:
+      - bun
+      - meaty
+      - onionring
+  - type: Sprite
+    state: rodeo
+  - type: SolutionContainerManager
+    solutions:
+      food:
+        maxVol: 29
+        reagents:
+        - ReagentId: Nutriment
+          Quantity: 16
+        - ReagentId: Vitamin
+          Quantity: 8
+
+- type: entity
   name: brain burger
   parent: FoodBurgerBase
   id: FoodBurgerBrain
