@@ -1,6 +1,18 @@
 <Document>
 # Snacks
 <Box Orientation="Vertical">
+	[color=#a4885c]Onion Rings[/color]
+</Box>
+<Box>
+<Box Orientation="Vertical">
+- 5x onion slice
+- 5u beer
+- 10u flour
+</Box>
+<GuideEntityEmbed Entity="KitchenMicrowave" Caption="10 sec"/>
+<GuideEntityEmbed Entity="FoodBoxOnionRings" Caption=""/>
+</Box>
+<Box Orientation="Vertical">
 	[color=#a4885c]Chicken Nuggets[/color]
 </Box>
 <Box>

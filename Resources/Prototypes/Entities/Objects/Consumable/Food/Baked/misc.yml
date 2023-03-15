@@ -218,8 +218,7 @@
   components:
   - type: FlavorProfile
     flavors:
-      - onion
-      - ring
+      - onionring
   - type: Tag
     tags:
       - OnyoRing
