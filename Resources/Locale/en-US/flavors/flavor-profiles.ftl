@@ -40,6 +40,7 @@ flavor-base-fizzy = fizzy
 flavor-base-shocking = shocking
 flavor-base-cheap = cheap
 flavor-base-piquant = piquant
+flavor-base-sharp = sharp
 
 # lmao
 flavor-base-terrible = terrible
@@ -98,6 +99,7 @@ flavor-complex-orange = like oranges
 flavor-complex-watermelon = like watermelon
 flavor-complex-nuggie = like "chicken"
 flavor-complex-onion-ring = like fluffy fried onion
+flavor-complex-garlic = like garlic
 
 ## Complex foodstuffs (cooked foods, joke flavors, etc)
 
@@ -176,11 +178,15 @@ flavor-complex-medicine = like medicine
 flavor-complex-carpet = like a handful of fur
 flavor-complex-bee = unbeelievable
 flavor-complex-sax = like jazz
+flavor-complex-bottledlightning = like lightning in a bottle
 
 ## Nyano???
 flavor-complex-enthralling = enthralling
 flavor-complex-sublime = sublime
 flavor-complex-holy = heavenly
+flavor-base-seeds = seeds
+flavor-complex-cotton = like cotton
+flavor-complex-vanilla = like vanilla
 flavor-complex-sake = like sweet, alcoholic rice
 flavor-complex-soju = like bold, alcoholic rice
 flavor-complex-orangecreamcicle = like creamy, alcoholic orange juice
@@ -190,5 +196,5 @@ flavor-complex-atomicpunch = like bittersweet radiation
 flavor-complex-circusjuice = extremely funny
 flavor-complex-pinkdrink = overwhelmingly like pink
 flavor-complex-sapopicante = like tomatoes and spices
-flavor-complex-graveyard = like a strong cold brewed
+flavor-complex-graveyard = like a strong cold brew
 flavor-complex-bubbletea = like creamy sweetness
